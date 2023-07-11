@@ -18,3 +18,5 @@ from cv2.ximgproc import guidedFilter”，那么你应该学删了再重装两�
 pip uninstall opencv-contrib-python opencv-python
 再装：
 pip install opencv-contrib-python opencv-python 
+
+最后，如果我个人建议全英文路径，不要中文。
